@@ -1,0 +1,1 @@
+This is EricXMason's first command line git project!
